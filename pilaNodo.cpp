@@ -80,7 +80,7 @@ void Pila<T>::pop(){
 	if (!nodo)
 	{
 		cout << "PILA VACIA"<<endl;
-		exit(1);
+		//exit(1);
 	}
 	else{
 		//valor = nodo->dato;
@@ -97,7 +97,7 @@ void Pila<T>::mostrarPila(){
 	if (!nodo)
 	{
 		cout << "PILA VACIA" <<endl;
-		exit(1);
+		//exit(1);
 	}
 	else
 	{
@@ -159,7 +159,7 @@ void Cola<T>::pop(){
 	if (!nodo)
 	{
 		cout << "PILA VACIA"<<endl;
-		exit(1);
+		//exit(1);
 	}
 	else{
 		//valor = nodo->dato;
@@ -176,7 +176,7 @@ void Cola<T>::mostrarCola(){
 	if (!nodo)
 	{
 		cout << "PILA VACIA" <<endl;
-		exit(1);
+		//exit(1);
 	}
 	else
 	{
