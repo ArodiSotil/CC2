@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>admin.png</file>
+        <file>autor.png</file>
+        <file>biblioteca.png</file>
+        <file>estudiante.png</file>
+        <file>libro.png</file>
+        <file>prestamos.png</file>
+        <file>editorial.png</file>
+        <file>nuevo.png</file>
+        <file>nuevoautor.png</file>
+        <file>eliminar.png</file>
+        <file>menu.png</file>
+    </qresource>
+</RCC>
